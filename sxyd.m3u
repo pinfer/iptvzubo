@@ -1,545 +1,184 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="CCTV", CCTV1[1920x1080]50fps
-rtp://224.30.30.94:8113
-
-#EXTINF:-1 group-title="CCTV", CCTV1[1920x1080]
-rtp://224.30.30.226:8245
-
-#EXTINF:-1 group-title="CCTV", CCTV2[1920x1080]
-rtp://224.30.30.1:8020
-
-#EXTINF:-1 group-title="CCTV", CCTV3[1920x1080]
-rtp://224.30.30.121:8140
-
-#EXTINF:-1 group-title="CCTV", CCTV4[1920x1080]
-rtp://224.30.30.4:8023
-
-#EXTINF:-1 group-title="CCTV", CCTV5[1920x1080]
-rtp://224.30.30.122:8141
-
-#EXTINF:-1 group-title="CCTV", CCTV6[1920x1080]
-rtp://224.30.30.123:8142
-
-#EXTINF:-1 group-title="CCTV", CCTV7[785x576]
-rtp://224.30.30.2:8021
-
-#EXTINF:-1 group-title="CCTV", CCTV8[1920x1080]
-rtp://224.30.30.124:8143
-
-#EXTINF:-1 group-title="CCTV", CCTV9[1920x1080]
-rtp://224.30.30.3:8022
-
-#EXTINF:-1 group-title="CCTV", CCTV10[1920x1080]
-rtp://224.30.30.17:8036
-
-#EXTINF:-1 group-title="CCTV", CCTV11[785x576]
-rtp://224.30.30.45:8064
-
-#EXTINF:-1 group-title="CCTV", CCTV12[1920x1080]
-rtp://224.30.30.18:8037
-
-#EXTINF:-1 group-title="CCTV", CCTV13[1920x1080]
-rtp://224.30.30.227:8246
-
-#EXTINF:-1 group-title="CCTV", CCTV13[1920x1080]
-rtp://224.30.30.47:8066
-
-#EXTINF:-1 group-title="CCTV", CCTV14[1920x1080]
-rtp://224.30.30.19:8038
-
-#EXTINF:-1 group-title="CCTV", CCTV15[785x576]
-rtp://224.30.30.46:8065
-
-#EXTINF:-1 group-title="CCTV", CCTV16[1920x1080]
-rtp://224.30.30.207:8226
-
-#EXTINF:-1 group-title="CCTV", CCTV17[1920x1080]
-rtp://224.30.30.148:8167
-
-#EXTINF:-1 group-title="CCTV", CCTV17[1920x1080]
-rtp://224.30.30.211:8230
-
-#EXTINF:-1 group-title="体育赛事", CCTV5+体育赛事[1920x1080]
-rtp://224.30.30.5:8024
-
-#EXTINF:-1 group-title="SITV", SITV都市剧场[1920x1080]
-rtp://224.30.30.117:8136
-
-#EXTINF:-1 group-title="SITV", SITV都市剧场[1920x1080]
-rtp://224.30.30.193:8212
-
-#EXTINF:-1 group-title="SITV", SITV法治天地[1920x1080]
-rtp://224.30.30.107:8126
-
-#EXTINF:-1 group-title="SITV", SITV金色学堂[1920x1080]
-rtp://224.30.30.108:8127
-
-#EXTINF:-1 group-title="卫视频道", 安徽卫视[1920x1080]
-rtp://224.30.30.16:8035
-
-#EXTINF:-1 group-title="购物频道", 佰乐购[768x576]
-rtp://224.30.30.161:8180
-#EXTINF:-1 group-title="卫视频道", 北京卫视[1920x1080]
-rtp://224.30.30.9:8028
-
-#EXTINF:-1 group-title="科技频道", 兵器科技[1920x1080]
-rtp://224.30.30.83:8102
-
-#EXTINF:-1 group-title="卫视频道", 兵团卫视[785x576]
-rtp://224.30.30.24:8043
-
-#EXTINF:-1 group-title="财经频道", 财富天下[785x576]
-rtp://224.30.30.69:8088
-
-#EXTINF:-1 group-title="茶文化", 茶频道[1920x1080]
-rtp://224.30.30.192:8211
-
-#EXTINF:-1 group-title="剧场", 第一剧场[1920x1080]
-rtp://224.30.30.86:8105
-
-#EXTINF:-1 group-title="电视指南", 电视指南[1920x1080]
-rtp://224.30.30.79:8098
-
-#EXTINF:-1 group-title="电子体育", 电子体育[768x576]
-rtp://224.30.30.63:8082
-
-#EXTINF:-1 group-title="财经频道", 东方财经[1920x1080]
-rtp://224.30.30.106:8125
-
-#EXTINF:-1 group-title="卫视频道", 东方卫视[1920x1080]
-rtp://224.30.30.29:8048
-
-#EXTINF:-1 group-title="卫视频道", 东南卫视[1920x1080]
-rtp://224.30.30.54:8073
-
-#EXTINF:-1 group-title="动漫频道", 动漫秀场[1920x1080]
-rtp://224.30.30.119:8138
-
-#EXTINF:-1 group-title="测试频道", 多屏测试[1920x1080]
-rtp://224.30.30.135:8154
-
-#EXTINF:-1 group-title="剧场", 风云剧场[1920x1080]
-rtp://224.30.30.85:8104
-
-#EXTINF:-1 group-title="音乐频道", 风云音乐[1920x1080]
-rtp://224.30.30.84:8103
-
-#EXTINF:-1 group-title="体育频道", 风云足球[1920x1080]
-rtp://224.30.30.82:8101
-
-#EXTINF:-1 group-title="卫视频道", 甘肃卫视[785x576]
-rtp://224.30.30.60:8079
-
-#EXTINF:-1 group-title="体育频道", 高尔夫网球[1920x1080]
-rtp://224.30.30.129:8148
-
-#EXTINF:-1 group-title="卫视频道", 广东卫视[1920x1080]
-rtp://224.30.30.34:8053
-
-#EXTINF:-1 group-title="卫视频道", 广西卫视[785x576]
-rtp://224.30.30.48:8067
-
-#EXTINF:-1 group-title="卫视频道", 贵州卫视[1920x1080]
-rtp://224.30.30.12:8031
-
-#EXTINF:-1 group-title="娱乐频道", 哈哈炫动[768x576]
-rtp://224.30.30.44:8063
-
-#EXTINF:-1 group-title="卫视频道", 海南卫视[768x576]
-rtp://224.30.30.22:8041
-
-#EXTINF:-1 group-title="卫视频道", 河北卫视[1920x1080]
-rtp://224.30.30.38:8057
-
-#EXTINF:-1 group-title="卫视频道", 河南卫视[1920x1080]
-rtp://224.30.30.14:8033
-#EXTINF:-1 group-title="卫视频道", 黑龙江卫视[1920x1080]
-rtp://224.30.30.32:8051
-
-#EXTINF:-1 group-title="卫视频道", 湖北卫视[1920x1080]
-rtp://224.30.30.7:8026
-
-#EXTINF:-1 group-title="卫视频道", 湖南卫视[1920x1080]
-rtp://224.30.30.27:8046
-
-#EXTINF:-1 group-title="剧场", 怀旧剧场[1920x1080]
-rtp://224.30.30.81:8100
-
-#EXTINF:-1 group-title="旅游频道", 环球奇观[768x576]
-rtp://224.30.30.131:8150
-
-#EXTINF:-1 group-title="卫视频道", 黄河卫视[1920x1080]
-rtp://224.30.30.97:8116
-
-#EXTINF:-1 group-title="卫视频道", 吉林卫视[1920x1080]
-rtp://224.30.30.39:8058
-
-#EXTINF:-1 group-title="人文频道", 纪实人文[1920x1080]
-rtp://224.30.30.30:8049
-
-#EXTINF:-1 group-title="理财频道", 家庭理财[768x576]
-rtp://224.30.30.127:8146
-
-#EXTINF:-1 group-title="儿童频道", 嘉佳卡通[768x576]
-rtp://224.30.30.20:8039
-
-#EXTINF:-1 group-title="卫视频道", 江苏卫视[1920x1080]
-rtp://224.30.30.36:8055
-
-#EXTINF:-1 group-title="卫视频道", 江西卫视[1920x1080]
-rtp://224.30.30.13:8032
-
-#EXTINF:-1 group-title="纪实频道", 金鹰纪实[1920x1080]
-rtp://224.30.30.28:8047
-
-#EXTINF:-1 group-title="儿童频道", 金鹰卡通[768x576]
-rtp://224.30.30.43:8062
-
-#EXTINF:-1 group-title="艺术频道", 书画[768x576]
-rtp://224.30.30.88:8107
-
-#EXTINF:-1 group-title="儿童频道", 卡酷少儿[768x576]
-rtp://224.30.30.61:8080
-
-#EXTINF:-1 group-title="垂钓频道", 快乐垂钓[1920x1080]
-rtp://224.30.30.67:8086
-
-#EXTINF:-1 group-title="故事频道", 老故事[768x576]
-rtp://224.30.30.72:8091
-
-#EXTINF:-1 group-title="旅游频道", 乐游[1920x1080]
-rtp://224.30.30.112:8131
-
-#EXTINF:-1 group-title="卫视频道", 辽宁卫视[1920x1080]
-rtp://224.30.30.10:8029
-
-#EXTINF:-1 group-title="地方电视台", 潞州电视台[1920x1080]
-rtp://224.30.30.163:8182
-
-#EXTINF:-1 group-title="体育频道", 魅力足球[1920x1080]
-rtp://224.30.30.110:8129
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.187:8206
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.184:8203
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.186:8205
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.196:8215
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.182:8201
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.185:8204
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.183:8202
-
-#EXTINF:-1 group-title="视频平台", 咪咕视频[1920x1080]
-rtp://224.30.30.195:8214
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.198:8217
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.201:8220
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.203:8222
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.188:8207
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.197:8216
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.191:8210
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.199:8218
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.189:8208
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.190:8209
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.204:8223
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.205:8224
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.206:8225
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.200:8219
-
-#EXTINF:-1 group-title="体育频道", 咪咕体育[1920x1080]
-rtp://224.30.30.202:8221
-
-#EXTINF:-1 group-title="卫视频道", 内蒙古卫视[785x576]
-rtp://224.30.30.52:8071
-
-#EXTINF:-1 group-title="地方电视台", 稷山电视台[1920x1080]
-rtp://224.30.30.209:8228
-
-#EXTINF:-1 group-title="卫视频道", 宁夏卫视[785x576]
-rtp://224.30.30.58:8077
-#EXTINF:-1 group-title="卫视频道", 农林卫视[785x576]
-rtp://224.30.30.95:8114
-
-#EXTINF:-1 group-title="时尚频道", 女性时尚[1920x1080]
-rtp://224.30.30.71:8090
-
-#EXTINF:-1 group-title="综合频道", 平定综合[768x576]
-rtp://224.30.30.208:8227
-
-#EXTINF:-1 group-title="汽车频道", 汽摩[768x576]
-rtp://224.30.30.90:8109
-
-#EXTINF:-1 group-title="卫视频道", 青海卫视[785x576]
-rtp://224.30.30.51:8070
-
-#EXTINF:-1 group-title="卫视频道", 三沙卫视[785x576]
-rtp://224.30.30.25:8044
-
-#EXTINF:-1 group-title="卫视频道", 厦门卫视[785x576]
-rtp://224.30.30.42:8061
-
-#EXTINF:-1 group-title="教育频道", 山东教育卫视[768x576]
-rtp://224.30.30.140:8159
-
-#EXTINF:-1 group-title="卫视频道", 山东卫视[1920x1080]
-rtp://224.30.30.6:8025
-
-#EXTINF:-1 group-title="经济与科技", 山西经济与科技[1920x1080]
-rtp://224.30.30.98:8117
-
-#EXTINF:-1 group-title="社会与法治", 山西社会与法治[1920x1080]
-rtp://224.30.30.100:8119
-
-#EXTINF:-1 group-title="卫视频道", 山西卫视[1920x1080]
-rtp://224.30.30.96:8115
-
-#EXTINF:-1 group-title="文体生活", 山西文体生活[1920x1080]
-rtp://224.30.30.101:8120
-
-#EXTINF:-1 group-title="影视频道", 山西影视[1920x1080]
-rtp://224.30.30.99:8118
-
-#EXTINF:-1 group-title="卫视频道", 陕西卫视[785x576]
-rtp://224.30.30.59:8078
-
-#EXTINF:-1 group-title="卫视频道", 深圳卫视[1920x1080]
-rtp://224.30.30.35:8054
-
-#EXTINF:-1 group-title="生活时尚", 生活时尚[1920x1080]
-rtp://224.30.30.116:8135
-
-#EXTINF:-1 group-title="生态环境", 生态环境[768x576]
-rtp://224.30.30.177:8196
-
-#EXTINF:-1 group-title="地理频道", 世界地理[1920x1080]
-rtp://224.30.30.130:8149
-
-#EXTINF:-1 group-title="车迷频道", 车迷频道[768x576]
-rtp://224.30.30.176:8195
-
-#EXTINF:-1 group-title="地方电视台", 朔州二套[1920x1080]
-rtp://224.30.30.150:8169
-
-#EXTINF:-1 group-title="地方电视台", 朔州一套[1920x1080]
-rtp://224.30.30.149:8168
-
-#EXTINF:-1 group-title="卫视频道", 四川卫视[1920x1080]
-rtp://224.30.30.31:8050
-#EXTINF:-1 group-title="综合频道", 太谷新闻综合[768x576]
-rtp://224.30.30.210:8229
-
-#EXTINF:-1 group-title="地方电视台", 太原1[768x576]
-rtp://224.30.30.156:8175
-
-#EXTINF:-1 group-title="地方电视台", 太原2[768x576]
-rtp://224.30.30.157:8176
-
-#EXTINF:-1 group-title="地方电视台", 太原3[768x576]
-rtp://224.30.30.158:8177
-
-#EXTINF:-1 group-title="地方电视台", 太原4[768x576]
-rtp://224.30.30.159:8178
-
-#EXTINF:-1 group-title="地方电视台", 太原5[768x576]
-rtp://224.30.30.160:8179
-
-#EXTINF:-1 group-title="教育频道", 太原教育电视台[768x576]
-rtp://224.30.30.151:8170
-
-#EXTINF:-1 group-title="卫视频道", 天津卫视[1920x1080]
-rtp://224.30.30.15:8034
-
-#EXTINF:-1 group-title="卫视频道", 天津卫视[1920x1080]
-rtp://224.30.30.228:8247
-
-#EXTINF:-1 group-title="卫视频道", 西藏卫视[785x576]
-rtp://224.30.30.23:8042
-
-#EXTINF:-1 group-title="地方电视台", 霍州电视台[768x576]
-rtp://224.30.30.152:8171
-
-#EXTINF:-1 group-title="卫视频道", 新疆卫视[785x576]
-rtp://224.30.30.26:8045
-
-#EXTINF:-1 group-title="体育频道", 央视台球[1920x1080]
-rtp://224.30.30.153:8172
-
-#EXTINF:-1 group-title="文化频道", 央视文化精品[1920x1080]
-rtp://224.30.30.80:8099
-
-#EXTINF:-1 group-title="教育频道", 阳泉科教[768x576]
-rtp://224.30.30.167:8186
-
-#EXTINF:-1 group-title="综合频道", 阳泉新闻综合[768x576]
-rtp://224.30.30.166:8185
-
-#EXTINF:-1 group-title="地方电视台", 永和电视台[768x576]
-rtp://224.30.30.162:8181
-
-#EXTINF:-1 group-title="购物频道", 优购物[768x576]
-rtp://224.30.30.141:8160
-
-#EXTINF:-1 group-title="儿童频道", 优漫卡通[768x576]
-rtp://224.30.30.50:8069
-
-#EXTINF:-1 group-title="儿童频道", 优优宝贝[768x576]
-rtp://224.30.30.128:8147
-
-#EXTINF:-1 group-title="游戏频道", 游戏风云[1920x1080]
-rtp://224.30.30.120:8139
-
-#EXTINF:-1 group-title="旅游频道", 发现之旅[768x576]
-rtp://224.30.30.165:8184
-
-#EXTINF:-1 group-title="卫视频道", 云南卫视[785x576]
-rtp://224.30.30.49:8068
-
-#EXTINF:-1 group-title="卫视频道", 浙江卫视[1920x1080]
-rtp://224.30.30.37:8056
-#EXTINF:-1 group-title="证券频道", 证券服务[768x576]
-rtp://224.30.30.70:8089
-
-#EXTINF:-1 group-title="教育频道", 中国教育1台[768x576]
-rtp://224.30.30.53:8072
-
-#EXTINF:-1 group-title="教育频道", 中国教育2台[768x576]
-rtp://224.30.30.40:8059
-
-#EXTINF:-1 group-title="教育频道", 中国教育4台[768x576]
-rtp://224.30.30.41:8060
-
-#EXTINF:-1 group-title="气象频道", 中国气象[768x576]
-rtp://224.30.30.66:8085
-
-#EXTINF:-1 group-title="特产频道", 中华特产[768x576]
-rtp://224.30.30.65:8084
-
-#EXTINF:-1 group-title="学生频道", 中学生[768x576]
-rtp://224.30.30.56:8075
-
-#EXTINF:-1 group-title="学生频道", 中学生[768x576]
-rtp://224.30.30.194:8213
-
-#EXTINF:-1 group-title="卫视频道", 重庆卫视[1920x1080]
-rtp://224.30.30.11:8030
-
-#EXTINF:-1 group-title="旅游频道", 环球旅游[768x576]
-rtp://224.30.30.132:8151
-
-#EXTINF:-1 group-title="卫视频道", CCTV4K[3840x2160]
-rtp://224.30.30.142:8161
-
-#EXTINF:-1 group-title="精选频道", 聚鲨环球精选[785x576]
-rtp://224.30.30.212:8231
-
-#EXTINF:-1 group-title="购物频道", 家有购物[785x576]
-rtp://224.30.30.213:8232
-
-#EXTINF:-1 group-title="国际频道", CGTN英语[768x576]
-rtp://224.30.30.214:8233
-
-#EXTINF:-1 group-title="国际频道", CCTV4欧洲[1920x1080]
-rtp://224.30.30.215:8234
-
-#EXTINF:-1 group-title="国际频道", CCTV4美洲[1920x1080]
-rtp://224.30.30.216:8235
-
-#EXTINF:-1 group-title="国际频道", CGTN[1920x1080]
-rtp://224.30.30.217:8236
-
-#EXTINF:-1 group-title="国际频道", CGTN记录[1920x1080]
-rtp://224.30.30.218:8237
-
-#EXTINF:-1 group-title="国际频道", CGTN西班牙语[1920x1080]
-rtp://224.30.30.219:8238
-
-#EXTINF:-1 group-title="国际频道", CGTN法语[1920x1080]
-rtp://224.30.30.220:8239
-
-#EXTINF:-1 group-title="国际频道", CGTN阿拉伯语
-rtp://224.30.30.221:8240
-
-#EXTINF:-1 group-title="国际频道", CGTN俄语[1920x1080]
-rtp://224.30.30.222:8241
-
-#EXTINF:-1 group-title="地方电视台", 左权电视台[1920x1080]
-rtp://224.30.30.144:8163
-
-#EXTINF:-1 group-title="地方电视台", 运城一套[1920x1080]
-rtp://224.30.30.223:8242
-
-#EXTINF:-1 group-title="地方电视台", 运城二套[1920x1080]
-rtp://224.30.30.224:8243
-
-#EXTINF:-1 group-title="地方电视台", 运城盐湖频道[1920x1080]
-rtp://224.30.30.225:8244
-
-#EXTINF:-1 group-title="地方电视台", 晋中综合[1920x1080]
-rtp://224.30.30.229:8248
-
-#EXTINF:-1 group-title="地方电视台", 晋中公共[1920x1080]
-rtp://224.30.30.230:8249
-
-#EXTINF:-1 group-title="文化频道", 国学频道[1024x576]
-rtp://224.30.30.57:8076
-
-#EXTINF:-1 group-title="地方电视台", 焦煤TV[1920x1080]
-rtp://224.30.30.143:8162
-
-#EXTINF:-1 group-title="教育频道", 早期教育[1920x1080]
-rtp://224.30.30.231:8250
-
-#EXTINF:-1 group-title="地方电视台", 阳高TV1[785x576]
-rtp://224.30.30.147:8166
-
-#EXTINF:-1 group-title="地方电视台", 阳高[1920x1080]
-rtp://224.30.30.237:8256
-
-#EXTINF:-1 group-title="竞技频道", 睛彩竞技[1920x1080]
-rtp://224.30.30.233:8252
-
-#EXTINF:-1 group-title="篮球频道", 睛彩篮球[1920x1080]
-rtp://224.30.30.234:8253
-
-#EXTINF:-1 group-title="青少年频道", 睛彩青少[1920x1080]
-rtp://224.30.30.235:8254
-
-#EXTINF:-1 group-title="广场舞频道", 睛彩广场舞[1920x1080]
-rtp://224.30.30.236:8255
-
+央视,#genre#
+CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
+CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
+CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
+CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
+CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225885/1.m3u8
+CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
+CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
+CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
+CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225958/1.m3u8
+CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
+CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226088/1.m3u8
+CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226047/1.m3u8
+CCTV5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
+CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225826/1.m3u8
+CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1.m3u8
+CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225997/1.m3u8
+CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
+CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1.m3u8
+CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1.m3u8
+CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225994/1.m3u8
+CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225888/1.m3u8
+CCTV9,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1.m3u8
+CCTV9,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225961/1.m3u8
+CCTV10,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226118/1.m3u8
+CCTV10,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226220/1.m3u8
+CCTV11,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226121/1.m3u8
+CCTV11,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225703/1.m3u8
+CCTV12,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225771/1.m3u8
+CCTV12,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225942/1.m3u8
+CCTV13,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226041/1.m3u8
+CCTV13,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225865/1.m3u8
+CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225974/1.m3u8
+CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
+CCTV15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225971/1.m3u8
+CCTV15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225868/1.m3u8
+CCTV16,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225871/1.m3u8
+CCTV16,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225949/1.m3u8
+CCTV17,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225706/1.m3u8
+CCTV17,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225877/1.m3u8
+CCTV17,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225909/1.m3u8
+CGTN,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225774/1.m3u8
+CGTN,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225957/1.m3u8
+CGTN法语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226023/1.m3u8
+CGTN西班牙语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.m3u8
+CGTN阿拉伯语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226211/1.m3u8
+CGTN俄罗斯语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226214/1.m3u8
+CGTN纪录,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225777/1.m3u8
+卫视,#genre#
+北京卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/1.m3u8
+北京卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225977/1.m3u8
+东方卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225780/1.m3u8
+东方卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225886/1.m3u8
+浙江卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226029/1.m3u8
+浙江卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226184/1.m3u8
+浙江卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226014/1.m3u8
+山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225733/1.m3u8
+山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225844/1.m3u8
+山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225991/1.m3u8
+湖南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226226/1.m3u8
+湖南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225910/1.m3u8
+江苏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225981/1.m3u8
+江苏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226223/1.m3u8
+江苏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226163/1.m3u8
+山东卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225931/1.m3u8
+山东卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225995/1.m3u8
+河北卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225715/1.m3u8
+河北卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225901/1.m3u8
+天津卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226001/1.m3u8
+天津卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226002/1.m3u8
+辽宁卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225998/1.m3u8
+辽宁卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226190/1.m3u8
+吉林卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225916/1.m3u8
+吉林卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226019/1.m3u8
+黑龙江卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226157/1.m3u8
+黑龙江卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225718/1.m3u8
+河南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225986/1.m3u8
+河南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226160/1.m3u8
+湖北卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225978/1.m3u8
+湖北卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225989/1.m3u8
+安徽卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225709/1.m3u8
+安徽卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225936/1.m3u8
+江西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225984/1.m3u8
+江西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225721/1.m3u8
+广东卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225969/1.m3u8
+广东卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225983/1.m3u8
+深圳卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225996/1.m3u8
+深圳卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225739/1.m3u8
+东南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225951/1.m3u8
+东南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225712/1.m3u8
+厦门卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225754/1.m3u8
+厦门卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225937/1.m3u8
+海南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226151/1.m3u8
+海南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225816/1.m3u8
+内蒙古卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226169/1.m3u8
+内蒙古卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225801/1.m3u8
+陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225807/1.m3u8
+陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225934/1.m3u8
+陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225940/1.m3u8
+宁夏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225798/1.m3u8
+宁夏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225928/1.m3u8
+四川卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225999/1.m3u8
+四川卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225742/1.m3u8
+重庆卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225804/1.m3u8
+重庆卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226145/1.m3u8
+贵州卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225892/1.m3u8
+贵州卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225980/1.m3u8
+广西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226124/1.m3u8
+广西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225786/1.m3u8
+云南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226007/1.m3u8
+云南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226181/1.m3u8
+甘肃卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225783/1.m3u8
+甘肃卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225963/1.m3u8
+青海卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225992/1.m3u8
+青海卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225993/1.m3u8
+新疆卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226008/1.m3u8
+新疆卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225810/1.m3u8
+兵团卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225751/1.m3u8
+西藏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226011/1.m3u8
+西藏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226016/1.m3u8
+延边卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226013/1.m3u8
+农林卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226058/1.m3u8
+大湾区卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225760/1.m3u8
+康巴卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226205/1.m3u8
+NewTV,#genre#
+金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225745/1.m3u8
+精品大剧,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225766/1.m3u8
+金牌综艺,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225769/1.m3u8
+军事评论,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225778/1.m3u8
+哒啵赛事,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225781/1.m3u8
+武搏世界,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225787/1.m3u8
+魅力潇湘,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225790/1.m3u8
+惊悚悬疑,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225796/1.m3u8
+精品纪录,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225831/1.m3u8
+明星大片,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225837/1.m3u8
+家庭剧场,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225834/1.m3u8
+炫舞未来,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225840/1.m3u8
+古装剧场,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225843/1.m3u8
+军旅剧场,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225846/1.m3u8
+怡伴健康,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225849/1.m3u8
+爱情喜剧,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225852/1.m3u8
+精品体育,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225861/1.m3u8
+精品萌宠,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225912/1.m3u8
+睛彩青少,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225915/1.m3u8
+睛彩篮球,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225922/1.m3u8
+睛彩篮球,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225811/1.m3u8
+睛彩竞技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225814/1.m3u8
+睛彩竞技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225925/1.m3u8
+动作电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/1.m3u8
+农业致富,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226037/1.m3u8
+海外剧场,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226040/1.m3u8
+中国功夫,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226043/1.m3u8
+欢乐剧场,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226052/1.m3u8
+东北热剧,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226055/1.m3u8
+潮妈辣婆,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226046/1.m3u8
+中华美食,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225793/1.m3u8
+教育卡通,#genre#
+CETV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225792/1.m3u8
+CETV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226139/1.m3u8
+CETV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/1.m3u8
+CETV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225960/1.m3u8
+CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226142/1.m3u8
+CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
+黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
+嘉佳卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225819/1.m3u8
+卡酷少儿,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225795/1.m3u8
+卡酷少儿,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225990/1.m3u8
+金鹰卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225730/1.m3u8
+金鹰卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
+优漫卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
+哈哈炫动,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
+影视,#genre#
+黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
+电影1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226003/1.m3u8
+电视剧1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/1.m3u8
+电视剧2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226241/1.m3u8
+电视剧3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226000/1.m3u8
+山西,#genre#
+运城-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225988/1.m3u8
+运城-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225985/1.m3u8
+盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1.m3u8
+霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1.m3u8
+潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1.m3u8
+稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1.m3u8
